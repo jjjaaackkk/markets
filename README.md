@@ -3,6 +3,8 @@
 Hello to my test project!
 C# Forms Simple Ticker for BTC/USDT, ETH/USDT and DOGE/USDT pairs
 
+![preview](https://github.com/jjjaaackkk/markets/blob/main/markets.png)
+
 ## REQUIREMENTS
 
 Windows )))
